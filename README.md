@@ -14,22 +14,39 @@ Important points
 List of Macros accepted by the program:
 
 Version ID: <#VERSIONID#>
+
 Last Updated: <#LASTUPDATED#>
+
 Patient ID/Medical Record Number: <#PATIENTID#>
+
 Prefix Name: <#PREFIXNAME#>
+
 Given Name: <#GIVENNAME#>
+
 Family Name: <#FAMILYNAME#>
+
 Gender: <#GENDER#>
+
 Date of Birth: <#BIRTHDATE#>
+
 Marital Status <#MARITALSTATUS#>
+
 Social Security Number: <#SOCIALSECURITYNUMBER#>
+
 Driver License: <#DRIVERLICENSE#>
+
 Phone Type: <#PHONETYPE#>
+
 Phone Number: <#PHONE#>
+
 Street Address: <#STREET#>
+
 City: <#CITY#>
+
 State: <#STATE#>
+
 Postal Code: <#POSTALCODE#>
+
 Country: <#COUNTRY#>
 
 Ensure that your macros are written all at once, don't copy and paste parts of the macro, because sometimes the text can be separated by MS Word
