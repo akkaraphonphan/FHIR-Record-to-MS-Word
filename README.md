@@ -10,8 +10,7 @@ This program is for the hackathon organized by UCL on the 2nd of March 2020. Thi
 4. Fill in the Patient's ID in the text field eg. 8f789d0b-3145-4cf2-8504-13159edaa747
 5. Click on Run
 
-Important points
-List of Macros accepted by the program:
+## List of Macros accepted by the program:
 
 Version ID: <#VERSIONID#>
 
