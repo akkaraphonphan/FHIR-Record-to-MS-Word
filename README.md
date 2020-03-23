@@ -12,6 +12,8 @@ Instructions
 
 ## List of Macros accepted by the program:
 
+Note: Ensure that your macros are written all at once, don't copy and paste parts of the macro, because sometimes the text can be separated by MS Word and as a result the macro will not get replaced
+
 Version ID: <#VERSIONID#>
 
 Last Updated: <#LASTUPDATED#>
@@ -48,4 +50,3 @@ Postal Code: <#POSTALCODE#>
 
 Country: <#COUNTRY#>
 
-Ensure that your macros are written all at once, don't copy and paste parts of the macro, because sometimes the text can be separated by MS Word
